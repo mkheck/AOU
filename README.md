@@ -3,7 +3,7 @@ Meta repository for second iteration of session/workshop: _Services Assemble! Ap
 
 ## Component repos
 
-* [Configuration](https://github.com/mkheck/AOU-microservices-config)
+* [Configuration](https://github.com/mkheck/AOU/tree/master/aou-config)
 * [Spring Cloud Config service](https://github.com/mkheck/AOU-config-service)
 * [Eureka service registry](https://github.com/mkheck/AOU-eureka-service)
 * [Coffee (backing) service](https://github.com/mkheck/AOU-coffee-service)
