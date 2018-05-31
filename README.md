@@ -1,5 +1,5 @@
 # AOU
-Meta repository for second iteration of session/workshop: _Services Assemble! Apply MVP Principles to Create Cutting-Edge Microservices Without Chaos with Spring Cloud/Netflix OSS_
+Meta repository for second iteration of session/workshop: _Services Assemble! Apply MVP Principles to Create Microservices Without Chaos with Spring Cloud/Netflix OSS_
 
 ## Component repos
 
