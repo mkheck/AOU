@@ -1,0 +1,18 @@
+server:
+  port: 9411
+
+spring:
+  datasource:
+    initialize: false
+  redis:
+    host: dockerdeb
+    port: 6379
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: test
+
+zipkin:
+  store:
+    type: mem
