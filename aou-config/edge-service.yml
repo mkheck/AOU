@@ -16,7 +16,7 @@ management:
 
 zuul:
   routes:
-    quote-service:
+    coffee-service:
       path: /cs/**
     demo:
       path: /coffee/**
@@ -57,7 +57,7 @@ spring:
           args:
             name: fallbackcmd
             fallbackUri: forward:/houseblend
-        - RewritePath=/coffee, /coffee/random
+        - RewritePath=/coffee, /coffees/random
 
   zipkin:
     host: localhost
