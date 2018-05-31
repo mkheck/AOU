@@ -5,7 +5,7 @@ Meta repository for second iteration of session/workshop: _Services Assemble! Ap
 
 * [Configuration](https://github.com/mkheck/AOU/tree/master/aou-config)
 * [Spring Cloud Config service](https://github.com/mkheck/AOU/tree/master/config-service)
-* [Eureka service registry](https://github.com/mkheck/AOU-eureka-service)
+* [Eureka service registry](https://github.com/mkheck/AOU/tree/master/eureka-service)
 * [Coffee (backing) service](https://github.com/mkheck/AOU-coffee-service)
 * [Edge service](https://github.com/mkheck/AOU-edge-service)
 * [Hystrix dashboard](https://github.com/mkheck/AOU-hystrix-dashboard)
