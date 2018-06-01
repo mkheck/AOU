@@ -15,7 +15,7 @@ Meta repository for second iteration of session/workshop: _Services Assemble! Ap
 * To clone this in one pass, you must issue this command to clone submodules as well:
 
 ```
-git clone --recursive <project url>
+git clone --recursive https://github.com/mkheck/AOU
 ```
 
 * Note that you can still clone all projects independently by following the links above to each individual repo
