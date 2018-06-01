@@ -4,3 +4,6 @@
 [submodule "config-service"]
 	path = config-service
 	url = https://github.com/mkheck/aou-config-service
+[submodule "coffee-service"]
+	path = coffee-service
+	url = https://github.com/mkheck/aou-coffee-service
