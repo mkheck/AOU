@@ -3,15 +3,22 @@ Meta repository for second iteration of session/workshop: _Services Assemble! Ap
 
 ## Component repos
 
-* [Configuration](https://github.com/mkheck/AOU/tree/master/aou-config)
-* [Spring Cloud Config service](https://github.com/mkheck/AOU/tree/master/config-service)
-* [Eureka service registry](https://github.com/mkheck/AOU/tree/master/eureka-service)
-* [Coffee (backing) service](https://github.com/mkheck/AOU-coffee-service)
-* [Edge service](https://github.com/mkheck/AOU-edge-service)
-* [Hystrix dashboard](https://github.com/mkheck/AOU-hystrix-dashboard)
+* [Configuration](https://github.com/mkheck/aou-config)
+* [Spring Cloud Config service](https://github.com/mkheck/aou-config-service)
+* [Eureka service registry](https://github.com/mkheck/aou-eureka-service)
+* [Coffee (backing) service](https://github.com/mkheck/aou-coffee-service)
+* [Edge service](https://github.com/mkheck/aou-edge-service)
+* [Hystrix dashboard](https://github.com/mkheck/aou-hystrix-dashboard)
 
 ## Notes
 
+* To clone this in one pass, you must issue this command to clone submodules as well:
+
+```
+git clone --recursive <project url>
+```
+
+* Note that you can still clone all projects independently by following the links above to each individual repo
 * Comment/remove Spring Cloud Stream (RabbitMQ) related code from Coffee & Edge services if not using async/MQ capabilities
 
 ## Contact information
