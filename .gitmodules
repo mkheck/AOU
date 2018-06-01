@@ -7,3 +7,6 @@
 [submodule "coffee-service"]
 	path = coffee-service
 	url = https://github.com/mkheck/aou-coffee-service
+[submodule "edge-service"]
+	path = edge-service
+	url = https://github.com/mkheck/aou-edge-service
