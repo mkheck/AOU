@@ -1,0 +1,3 @@
+[submodule "aou-config"]
+	path = aou-config
+	url = https://github.com/mkheck/aou-config
