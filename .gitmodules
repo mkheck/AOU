@@ -13,3 +13,6 @@
 [submodule "eureka-service"]
 	path = eureka-service
 	url = https://github.com/mkheck/aou-eureka-service
+[submodule "hystrix-dashboard"]
+	path = hystrix-dashboard
+	url = https://github.com/mkheck/aou-hystrix-dashboard
