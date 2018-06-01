@@ -10,3 +10,6 @@
 [submodule "edge-service"]
 	path = edge-service
 	url = https://github.com/mkheck/aou-edge-service
+[submodule "eureka-service"]
+	path = eureka-service
+	url = https://github.com/mkheck/aou-eureka-service
