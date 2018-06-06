@@ -13,3 +13,6 @@
 [submodule "hystrix-dashboard"]
 	path = hystrix-dashboard
 	url = https://github.com/mkheck/aou-hystrix-dashboard
+[submodule "aou-config"]
+	path = aou-config
+	url = git@github.com:mkheck/aou-config.git
