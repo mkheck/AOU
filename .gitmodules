@@ -1,6 +1,6 @@
 [submodule "aou-config"]
 	path = aou-config
-	url = https://github.com/mkheck/aou-config
+	url = git@github.com:mkheck/aou-config.git
 [submodule "config-service"]
 	path = config-service
 	url = https://github.com/mkheck/aou-config-service
