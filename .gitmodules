@@ -1,3 +1,18 @@
 [submodule "aou-config"]
 	path = aou-config
 	url = git@github.com:mkheck/aou-config.git
+[submodule "coffee-service"]
+	path = aou-coffee-service
+	url = git@github.com:mkheck/aou-coffee-service.git
+[submodule "config-service"]
+	path = aou-config-service
+	url = git@github.com:mkheck/aou-config-service.git
+[submodule "edge-service"]
+	path = aou-edge-service
+	url = git@github.com:mkheck/aou-edge-service.git
+[submodule "eureka-service"]
+	path = aou-eureka-service
+	url = git@github.com:mkheck/aou-eureka-service.git
+[submodule "hystrix-dashboard"]
+	path = aou-hystrix-dashboard
+	url = git@github.com:mkheck/aou-hystrix-dashboard.git
